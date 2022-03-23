@@ -2,8 +2,8 @@
   <div class="home">
   
     <Nav />
-    <div class="flex justify-center mt-12 ">
-      <h1 class="text-white text-3xl">Sign Up</h1>
+    <div class="flex justify-start mt-12 ">
+      <h1 class="text-white text-3xl">Sign Up for life!!!!!!</h1>
       <div>
          <form >
 
