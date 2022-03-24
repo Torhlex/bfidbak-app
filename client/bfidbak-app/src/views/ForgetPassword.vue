@@ -51,7 +51,7 @@ export default {
 <style>
 body {
   /* background-color: skyblue; */
-  background-image: url(img/bggg.jpeg);
+  background-image: url(../assets/pexels-karolina-grabowska-4194854\ 2.png);
   background-blend-mode: soft-light;
   /* height: 500px; */
   background-size: cover;
